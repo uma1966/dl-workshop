@@ -87,7 +87,7 @@ def plots(ims, figsize=(12,6), rows=1, interp=False, titles=None):
         sp = f.add_subplot(rows, cols, i+1)
         sp.axis('Off')
         if titles is not None:
-            sp.set_title(titles[i], fontsize=16)
+            sp.set_title(titles[i], fontsize=12)
         plt.imshow(ims[i], interpolation=None if interp else 'none')
 
 
