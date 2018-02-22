@@ -1,1 +1,10 @@
 Copyright (c) 2017 EnBW AG. All rights reserved.
+Autor: Uwe Maurer (u.maurer@enbw.com), EnBW TechLAB
+
+Based on materials of fast.ai online course (Version 2017) from Jeremy Howard:
+http://fast.ai
+https://github.com/fastai/courses
+
+Especially the code in util.py und vgg16.py comes from this source
+License: Apache 2.0  https://github.com/fastai/courses/blob/master/LICENSE.txt
+
